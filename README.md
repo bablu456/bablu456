@@ -36,17 +36,12 @@ I am a passionate **Java Full Stack Developer** from India 🇮🇳. I love buil
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 My GitHub Activity:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bablu456&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=bablu456&theme=tokyonight&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bablu456&theme=tokyonight&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bablu456&show_icons=true&theme=dracula&rank_icon=github" alt="Bablu's GitHub Stats" /><br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bablu456&layout=compact&theme=dracula" alt="Most Used Languages" />
 </div>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bablu456&theme=radical&no-frame=false&margin-w=4" />
-</p>
 
 ---
 
